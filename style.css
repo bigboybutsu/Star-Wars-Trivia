@@ -1,0 +1,77 @@
+#characterContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#selectContainer {
+  display: flex;
+  justify-content: center;
+}
+#buttonContainer {
+  display: flex;
+  justify-content: center;
+}
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.personDiv {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  padding: 5px;
+  border: 5px solid green;
+}
+
+.wholeDiv {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+#submitCharacter {
+  margin-bottom: 100px;
+}
+.compareDiv {
+  padding-top: 200px;
+  width: 140px;
+  text-align: center;
+}
+
+.moreInfoContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.moreInfoDiv {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 5px solid green;
+}
+.p_fact {
+  margin: 10px;
+}
+.moreInfoBtnContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.p_tag {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0px 0px 0px 0px;
+}
